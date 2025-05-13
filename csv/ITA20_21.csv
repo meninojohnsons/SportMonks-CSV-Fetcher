@@ -1,0 +1,21 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+2930,1,251,1721,male,Inter,INT,https://cdn.sportmonks.com/images/soccer/teams/18/2930.png,1908,domestic,false,2025-05-06 19:00:00
+563,1,251,106,male,Benevento,BEN,https://cdn.sportmonks.com/images/soccer/teams/19/563.png,1929,domestic,false,2025-05-04 18:00:00
+522,1,251,86,male,Sampdoria,SAM,https://cdn.sportmonks.com/images/soccer/teams/10/522.png,1946,domestic,false,2025-05-04 13:00:00
+1123,1,251,443,male,Hellas Verona,VER,https://cdn.sportmonks.com/images/soccer/teams/3/1123.png,1903,domestic,false,2025-05-03 18:45:00
+625,1,251,14742,male,Juventus,JUV,https://cdn.sportmonks.com/images/soccer/teams/17/625.png,1897,domestic,false,2025-05-04 18:45:00
+585,1,251,160319,male,Cagliari,CAG,https://cdn.sportmonks.com/images/soccer/teams/9/585.png,1920,domestic,false,2025-05-03 13:00:00
+345,1,251,7305,male,Spezia,SPE,https://cdn.sportmonks.com/images/soccer/teams/25/345.png,1906,domestic,false,2025-05-04 13:00:00
+89,1,251,7339,male,Crotone,CRO,https://cdn.sportmonks.com/images/soccer/teams/25/89.png,1923,domestic,false,2025-05-07 18:00:00
+708,1,251,193,male,Atalanta,ATA,https://cdn.sportmonks.com/images/soccer/teams/4/708.png,1907,domestic,false,2025-05-04 13:00:00
+346,1,251,7224,male,Udinese,UDI,https://cdn.sportmonks.com/images/soccer/teams/26/346.png,1896,domestic,false,2025-05-03 13:00:00
+113,1,251,1721,male,Milan,MIL,https://cdn.sportmonks.com/images/soccer/teams/17/113.png,1899,domestic,false,2025-05-05 18:45:00
+102,1,251,86,male,Genoa,GEN,https://cdn.sportmonks.com/images/soccer/teams/6/102.png,1893,domestic,false,2025-05-05 18:45:00
+109,1,251,7223,male,Fiorentina,FIO,https://cdn.sportmonks.com/images/soccer/teams/13/109.png,1926,domestic,false,2025-05-08 19:00:00
+43,1,251,7189,male,Lazio,LAZ,https://cdn.sportmonks.com/images/soccer/teams/11/43.png,1900,domestic,false,2025-05-04 10:30:00
+37,1,251,7189,male,Roma,ROM,https://cdn.sportmonks.com/images/soccer/teams/5/37.png,1927,domestic,false,2025-05-04 16:00:00
+613,1,251,142,male,Torino,TOR,https://cdn.sportmonks.com/images/soccer/teams/5/613.png,1906,domestic,false,2025-05-02 18:45:00
+8513,1,251,5515,male,Bologna,BOL,https://cdn.sportmonks.com/images/soccer/teams/1/8513.png,1909,domestic,false,2025-05-04 18:45:00
+2714,1,251,1613,male,Sassuolo,SAS,https://cdn.sportmonks.com/images/soccer/teams/26/2714.png,1922,domestic,false,2025-05-04 17:30:00
+597,1,251,134,male,Napoli,NAP,https://cdn.sportmonks.com/images/soccer/teams/21/597.png,1926,domestic,false,2025-05-03 16:00:00
+398,1,251,7175,male,Parma,PRM,https://cdn.sportmonks.com/images/soccer/teams/14/398.png,1913,domestic,false,2025-05-03 13:00:00

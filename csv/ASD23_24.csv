@@ -1,0 +1,19 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+10660,1,35376,340318,male,Al Tai,TSP,https://cdn.sportmonks.com/images/soccer/teams/4/10660.png,1960,domestic,false,2025-05-06 18:00:00
+232738,1,35376,340316,male,Al Akhdoud,,https://cdn.sportmonks.com/images/soccer/teams/2/232738.png,,domestic,false,2025-05-01 16:00:00
+476,1,35376,63,male,Al Ittihad,ITT,https://cdn.sportmonks.com/images/soccer/teams/28/476.png,1927,domestic,false,2025-05-07 18:00:00
+363,1,35376,1442,male,Al Raed,RAE,https://cdn.sportmonks.com/images/soccer/teams/11/363.png,1954,domestic,false,2025-05-07 16:15:00
+5891,1,35376,13392,male,Al Fateh,FAT,https://cdn.sportmonks.com/images/soccer/teams/3/5891.png,1958,domestic,false,2025-05-01 18:00:00
+7011,1,35376,343421,male,Al Hilal,ALH,https://cdn.sportmonks.com/images/soccer/teams/3/7011.png,1957,domestic,false,2025-05-07 16:15:00
+5618,1,35376,3696,male,Abha,ABH,https://cdn.sportmonks.com/images/soccer/teams/18/5618.png,,domestic,false,2025-05-07 13:30:00
+10010,1,35376,341803,male,Al Ettifaq,ETT,https://cdn.sportmonks.com/images/soccer/teams/26/10010.png,1944,domestic,false,2025-05-02 15:50:00
+2506,1,35376,273510,male,Al Nassr,ANA,https://cdn.sportmonks.com/images/soccer/teams/10/2506.png,1955,domestic,false,2025-05-07 18:00:00
+17712,1,35376,187144,male,Damac FC,DAM,https://cdn.sportmonks.com/images/soccer/teams/16/17712.png,1970,domestic,false,2025-05-02 16:05:00
+12216,1,35376,13368,male,Al Khaleej,KHA,https://cdn.sportmonks.com/images/soccer/teams/24/12216.png,0,domestic,false,2025-05-02 15:50:00
+16184,1,35376,340312,male,Al Shabab,SHB,https://cdn.sportmonks.com/images/soccer/teams/24/16184.png,1947,domestic,false,2025-05-01 18:00:00
+2392,1,35376,1442,male,Al Taawoun,ALT,https://cdn.sportmonks.com/images/soccer/teams/24/2392.png,1956,domestic,false,2025-05-07 16:25:00
+17724,1,35376,13332,male,Al-Fayha,FAY,https://cdn.sportmonks.com/images/soccer/teams/28/17724.png,0,domestic,false,2025-05-02 16:05:00
+17705,1,35376,13334,male,Al Riyadh,,https://cdn.sportmonks.com/images/soccer/teams/9/17705.png,1954,domestic,false,2025-05-01 16:00:00
+17694,1,35376,1442,male,Al Hazm,,https://cdn.sportmonks.com/images/soccer/teams/30/17694.png,1965,domestic,false,2025-05-07 16:20:00
+9908,1,35376,63,male,Al Ahli,,https://cdn.sportmonks.com/images/soccer/teams/20/9908.png,1937,domestic,false,2025-05-07 16:25:00
+2513,1,35376,1500,male,Al-Wehda,AWF,https://cdn.sportmonks.com/images/soccer/teams/17/2513.png,1945,domestic,false,2025-05-01 16:00:00

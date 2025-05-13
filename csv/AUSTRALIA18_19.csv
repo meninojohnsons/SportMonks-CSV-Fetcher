@@ -1,0 +1,11 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+1264,1,98,552,male,Western Sydney Wanderers,WSW,https://cdn.sportmonks.com/images/soccer/teams/16/1264.png,2012,domestic,false,2025-05-03 09:35:00
+1868,1,2817,968,male,Wellington Phoenix,WEL,https://cdn.sportmonks.com/images/soccer/teams/12/1868.png,2007,domestic,false,2025-05-04 05:00:00
+410,1,98,27,male,Central Coast Mariners,CCM,https://cdn.sportmonks.com/images/soccer/teams/26/410.png,2004,domestic,false,2025-05-02 09:35:00
+253,1,98,321466,male,Sydney,SYD,https://cdn.sportmonks.com/images/soccer/teams/29/253.png,2004,domestic,false,2025-05-03 07:00:00
+300,1,98,31442,male,Perth Glory,PER,https://cdn.sportmonks.com/images/soccer/teams/12/300.png,1995,domestic,false,2025-05-04 05:00:00
+958,1,98,354,male,Melbourne Victory,MVC,https://cdn.sportmonks.com/images/soccer/teams/30/958.png,2004,domestic,false,2025-05-04 07:00:00
+1238,1,98,530,male,Brisbane Roar,BRI,https://cdn.sportmonks.com/images/soccer/teams/22/1238.png,2005,domestic,false,2025-05-02 09:35:00
+315,1,98,354,male,Melbourne City,MCY,https://cdn.sportmonks.com/images/soccer/teams/27/315.png,2008,domestic,false,2025-05-03 07:00:00
+2967,1,98,1743,male,Adelaide United,ADL,https://cdn.sportmonks.com/images/soccer/teams/23/2967.png,2003,domestic,false,2025-05-09 09:35:00
+557,1,98,103,male,Newcastle Jets,NEW,https://cdn.sportmonks.com/images/soccer/teams/13/557.png,2000,domestic,false,2025-05-04 07:00:00

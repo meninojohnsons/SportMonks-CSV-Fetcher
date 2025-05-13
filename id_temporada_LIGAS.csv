@@ -1,0 +1,360 @@
+ID LIGA,NOME LIGA,País,Confederação,temporada,id_temporada
+384,Serie A,Itália,UEFA,10_11,1579
+384,Serie A,Itália,UEFA,11_12,1580
+384,Serie A,Itália,UEFA,14_15,1583
+384,Serie A,Itália,UEFA,12_13,1581
+384,Serie A,Itália,UEFA,15_16,1584
+806,Premier League,África do Sul,,18_19,13140
+384,Serie A,Itália,UEFA,16_17,802
+384,Serie A,Itália,UEFA,17_18,8557
+806,Premier League,África do Sul,,19_20,16265
+806,Premier League,África do Sul,,20_21,17679
+384,Serie A,Itália,UEFA,05_06,1574
+384,Serie A,Itália,UEFA,06_07,1575
+384,Serie A,Itália,UEFA,13_14,1582
+384,Serie A,Itália,UEFA,07_08,1576
+384,Serie A,Itália,UEFA,08_09,1577
+806,Premier League,África do Sul,,21_22,18728
+384,Serie A,Itália,UEFA,09_10,1578
+806,Premier League,África do Sul,,22_23,14
+806,Premier League,África do Sul,,23_24,21998
+806,Premier League,África do Sul,,24_25,24168
+8,Premier League,Reino Unido,UEFA,05_06,1586
+82,Bundesliga,Alemanha,,18_19,13005
+82,Bundesliga,Alemanha,,19_20,16264
+648,Brasileirão,Brasil,,05_05,2269
+82,Bundesliga,Alemanha,,20_21,17361
+8,Premier League,Reino Unido,UEFA,03_04,24256
+8,Premier League,Reino Unido,UEFA,01_02,24262
+8,Premier League,Reino Unido,UEFA,00_01,24263
+8,Premier League,Reino Unido,UEFA,02_03,24261
+8,Premier League,Reino Unido,UEFA,04_05,24255
+8,Premier League,Reino Unido,UEFA,17_18,6397
+82,Bundesliga,Alemanha,,21_22,18444
+82,Bundesliga,Alemanha,,22_23,19744
+82,Bundesliga,Alemanha,,23_24,21795
+8,Premier League,Reino Unido,UEFA,10_11,2
+8,Premier League,Reino Unido,UEFA,13_14,3
+8,Premier League,Reino Unido,UEFA,08_09,6
+8,Premier League,Reino Unido,UEFA,12_13,7
+8,Premier League,Reino Unido,UEFA,06_07,8
+8,Premier League,Reino Unido,UEFA,11_12,9
+8,Premier League,Reino Unido,UEFA,15_16,10
+8,Premier League,Reino Unido,UEFA,09_10,11
+8,Premier League,Reino Unido,UEFA,14_15,12
+8,Premier League,Reino Unido,UEFA,16_17,13
+8,Premier League,Reino Unido,UEFA,07_08,14
+944,Pro League,Arábia Saudita,,18_19,12941
+301,Ligue 1,França,UEFA,05_06,1380
+301,Ligue 1,França,UEFA,16_17,765
+301,Ligue 1,França,UEFA,11_12,1386
+944,Pro League,Arábia Saudita,,19_20,16430
+944,Pro League,Arábia Saudita,,20_21,17654
+301,Ligue 1,França,UEFA,12_13,1387
+301,Ligue 1,França,UEFA,06_07,1381
+301,Ligue 1,França,UEFA,08_09,1383
+944,Pro League,Arábia Saudita,,23_24,22031
+301,Ligue 1,França,UEFA,15_16,1390
+301,Ligue 1,França,UEFA,10_11,1385
+944,Pro League,Arábia Saudita,,21_22,18626
+301,Ligue 1,França,UEFA,07_08,1382
+301,Ligue 1,França,UEFA,17_18,6405
+301,Ligue 1,França,UEFA,09_10,1384
+301,Ligue 1,França,UEFA,13_14,1388
+944,Pro League,Arábia Saudita,,22_23,20310
+301,Ligue 1,França,UEFA,14_15,1389
+944,Pro League,Arábia Saudita,,24_25,23970
+636,Liga Profesional de Fútbol,Argentina,,18_19,13124
+1356,A-League Men,Austrália,,23_24,22535
+564,La Liga,Espanha,,17_18,8442
+564,La Liga,Espanha,,16_17,853
+564,La Liga,Espanha,,14_15,2061
+636,Liga Profesional de Fútbol,Argentina,,19_20,16361
+636,Liga Profesional de Fútbol,Argentina,,20_21,17708
+564,La Liga,Espanha,,06_07,2053
+564,La Liga,Espanha,,15_16,2063
+564,La Liga,Espanha,,07_08,2054
+564,La Liga,Espanha,,12_13,2059
+564,La Liga,Espanha,,08_09,2055
+1356,A-League Men,Austrália,,05_06,6191
+564,La Liga,Espanha,,05_06,2052
+564,La Liga,Espanha,,13_14,2060
+564,La Liga,Espanha,,11_12,2057
+564,La Liga,Espanha,,09_10,2058
+564,La Liga,Espanha,,10_11,2056
+1356,A-League Men,Austrália,,06_07,6192
+1356,A-League Men,Austrália,,07_08,6193
+1356,A-League Men,Austrália,,08_09,6194
+462,Liga Portugal,Portugal,,05_06,1853
+462,Liga Portugal,Portugal,,08_09,1855
+1356,A-League Men,Austrália,,09_10,6195
+462,Liga Portugal,Portugal,,15_16,1863
+462,Liga Portugal,Portugal,,14_15,1862
+462,Liga Portugal,Portugal,,16_17,816
+1356,A-League Men,Austrália,,10_11,6196
+462,Liga Portugal,Portugal,,10_11,1858
+462,Liga Portugal,Portugal,,09_10,1857
+462,Liga Portugal,Portugal,,13_14,1861
+648,Brasileirão,Brasil,,06_06,2270
+462,Liga Portugal,Portugal,,06_07,1854
+462,Liga Portugal,Portugal,,07_08,1856
+462,Liga Portugal,Portugal,,11_12,1859
+462,Liga Portugal,Portugal,,17_18,8201
+462,Liga Portugal,Portugal,,12_13,1860
+830,Premier League,Egito,,18_19,13129
+830,Premier League,Egito,,19_20,16647
+830,Premier League,Egito,,20_21,17800
+830,Premier League,Egito,,21_22,19052
+830,Premier League,Egito,,22_23,20827
+648,Brasileirão,Brasil,,07_07,2271
+830,Premier League,Egito,,23_24,22656
+743,Liga MX,México,,16_17,909
+564,La Liga,Espanha,,18_19,13133
+564,La Liga,Espanha,,19_20,16326
+743,Liga MX,México,,14_15,2468
+743,Liga MX,México,,17_18,6411
+743,Liga MX,México,,08_09,2462
+743,Liga MX,México,,05_06,2459
+743,Liga MX,México,,09_10,2463
+743,Liga MX,México,,07_08,2461
+743,Liga MX,México,,10_11,2464
+743,Liga MX,México,,11_12,2465
+743,Liga MX,México,,15_16,2469
+743,Liga MX,México,,13_14,2467
+743,Liga MX,México,,12_13,2466
+743,Liga MX,México,,06_07,2460
+564,La Liga,Espanha,,20_21,17480
+648,Brasileirão,Brasil,,08_08,2272
+648,Brasileirão,Brasil,,09_09,2273
+648,Brasileirão,Brasil,,11_11,2275
+648,Brasileirão,Brasil,,12_12,2276
+648,Brasileirão,Brasil,,13_13,2277
+648,Brasileirão,Brasil,,14_14,2278
+648,Brasileirão,Brasil,,15_15,2279
+648,Brasileirão,Brasil,,16_16,2280
+648,Brasileirão,Brasil,,17_17,866
+648,Brasileirão,Brasil,,18_18,12206
+648,Brasileirão,Brasil,,19_19,15759
+648,Brasileirão,Brasil,,20_20,16996
+648,Brasileirão,Brasil,,21_21,18215
+648,Brasileirão,Brasil,,22_22,19434
+648,Brasileirão,Brasil,,23_23,21207
+648,Brasileirão,Brasil,,24_24,23265
+648,Brasileirão,Brasil,,25_25,25184
+968,J-League,Japão,,05_05,3098
+968,J-League,Japão,,06_06,3099
+968,J-League,Japão,,07_07,3100
+968,J-League,Japão,,08_08,3101
+968,J-League,Japão,,09_09,3102
+968,J-League,Japão,,10_10,3103
+968,J-League,Japão,,11_11,3104
+968,J-League,Japão,,12_12,3105
+968,J-League,Japão,,13_13,3106
+968,J-League,Japão,,14_14,3107
+968,J-League,Japão,,15_15,3108
+968,J-League,Japão,,16_16,3112
+968,J-League,Japão,,17_17,977
+968,J-League,Japão,,18_18,12144
+968,J-League,Japão,,19_19,15675
+968,J-League,Japão,,20_20,16894
+968,J-League,Japão,,21_21,17874
+968,J-League,Japão,,22_22,19312
+968,J-League,Japão,,23_23,21035
+968,J-League,Japão,,24_24,23002
+968,J-League,Japão,,25_25,24946
+1034,K League 1,Coreia do Sul,,05_05,3258
+1034,K League 1,Coreia do Sul,,06_06,3259
+1034,K League 1,Coreia do Sul,,07_07,3260
+1034,K League 1,Coreia do Sul,,08_08,3261
+564,La Liga,Espanha,,21_22,18462
+1034,K League 1,Coreia do Sul,,09_09,3262
+636,Liga Profesional de Fútbol,Argentina,,17_18,8795
+1034,K League 1,Coreia do Sul,,10_10,3263
+1034,K League 1,Coreia do Sul,,11_11,3264
+1034,K League 1,Coreia do Sul,,12_12,3265
+564,La Liga,Espanha,,22_23,19799
+830,Premier League,Egito,,24_25,24703
+1034,K League 1,Coreia do Sul,,13_13,3266
+636,Liga Profesional de Fútbol,Argentina,,16_17,2247
+1034,K League 1,Coreia do Sul,,14_14,3267
+1034,K League 1,Coreia do Sul,,15_15,3268
+1034,K League 1,Coreia do Sul,,16_16,3269
+1034,K League 1,Coreia do Sul,,17_17,998
+1034,K League 1,Coreia do Sul,,18_18,12180
+1034,K League 1,Coreia do Sul,,19_19,15662
+1034,K League 1,Coreia do Sul,,20_20,16849
+1034,K League 1,Coreia do Sul,,21_21,17934
+1034,K League 1,Coreia do Sul,,22_22,19370
+1034,K League 1,Coreia do Sul,,23_23,21100
+1034,K League 1,Coreia do Sul,,24_24,23091
+1034,K League 1,Coreia do Sul,,25_25,25044
+636,Liga Profesional de Fútbol,Argentina,,15_15,7915
+636,Liga Profesional de Fútbol,Argentina,,21_21,17956
+636,Liga Profesional de Fútbol,Argentina,,22_22,19353
+636,Liga Profesional de Fútbol,Argentina,,23_23,20873
+636,Liga Profesional de Fútbol,Argentina,,24_24,23024
+636,Liga Profesional de Fútbol,Argentina,,25_25,24969
+779,Major League Soccer,Estados Unidos,,05_05,2585
+779,Major League Soccer,Estados Unidos,,06_06,2586
+779,Major League Soccer,Estados Unidos,,07_07,2587
+944,Pro League,Arábia Saudita,,08_09,3041
+944,Pro League,Arábia Saudita,,11_12,3044
+944,Pro League,Arábia Saudita,,10_11,3043
+944,Pro League,Arábia Saudita,,15_16,3048
+944,Pro League,Arábia Saudita,,05_06,3038
+564,La Liga,Espanha,,23_24,23621
+301,Ligue 1,França,UEFA,18_19,12935
+944,Pro League,Arábia Saudita,,17_18,6406
+301,Ligue 1,França,UEFA,19_20,16043
+944,Pro League,Arábia Saudita,,16_17,980
+301,Ligue 1,França,UEFA,20_21,17160
+301,Ligue 1,França,UEFA,21_22,18441
+301,Ligue 1,França,UEFA,22_23,19745
+944,Pro League,Arábia Saudita,,06_07,3039
+944,Pro League,Arábia Saudita,,13_14,3046
+944,Pro League,Arábia Saudita,,14_15,3047
+944,Pro League,Arábia Saudita,,07_08,3040
+944,Pro League,Arábia Saudita,,12_13,3045
+944,Pro League,Arábia Saudita,,09_10,3042
+564,La Liga,Espanha,,24_25,21694
+384,Serie A,Itália,UEFA,18_19,13158
+779,Major League Soccer,Estados Unidos,,08_08,2588
+384,Serie A,Itália,UEFA,19_20,16415
+938,Stars League,Qatar,,17_18,9048
+938,Stars League,Qatar,,11_12,3024
+938,Stars League,Qatar,,09_10,3021
+938,Stars League,Qatar,,06_07,3016
+938,Stars League,Qatar,,10_11,3022
+384,Serie A,Itália,UEFA,20_21,17488
+938,Stars League,Qatar,,16_17,972
+384,Serie A,Itália,UEFA,21_22,18576
+938,Stars League,Qatar,,08_09,3023
+384,Serie A,Itália,UEFA,22_23,19806
+938,Stars League,Qatar,,13_14,3026
+938,Stars League,Qatar,,14_15,3027
+938,Stars League,Qatar,,05_06,3015
+938,Stars League,Qatar,,12_13,3025
+938,Stars League,Qatar,,07_08,3017
+938,Stars League,Qatar,,15_16,3028
+301,Ligue 1,França,UEFA,23_24,23643
+779,Major League Soccer,Estados Unidos,,09_09,2589
+779,Major League Soccer,Estados Unidos,,10_10,2590
+779,Major League Soccer,Estados Unidos,,11_11,2591
+779,Major League Soccer,Estados Unidos,,12_12,2592
+779,Major League Soccer,Estados Unidos,,13_13,2593
+779,Major League Soccer,Estados Unidos,,14_14,2594
+779,Major League Soccer,Estados Unidos,,15_15,2595
+779,Major League Soccer,Estados Unidos,,16_16,2596
+779,Major League Soccer,Estados Unidos,,17_17,914
+743,Liga MX,México,,18_19,12993
+743,Liga MX,México,,19_20,16230
+779,Major League Soccer,Estados Unidos,,18_18,124
+743,Liga MX,México,,20_21,17191
+779,Major League Soccer,Estados Unidos,,19_19,15610
+779,Major League Soccer,Estados Unidos,,20_20,16721
+779,Major League Soccer,Estados Unidos,,21_21,17815
+779,Major League Soccer,Estados Unidos,,22_22,19137
+779,Major League Soccer,Estados Unidos,,23_23,20901
+779,Major League Soccer,Estados Unidos,,24_24,22974
+779,Major League Soccer,Estados Unidos,,25_25,24962
+743,Liga MX,México,,21_22,18469
+806,Premier League,África do Sul,,12_13,2661
+301,Ligue 1,França,UEFA,24_25,21779
+806,Premier League,África do Sul,,15_16,2664
+806,Premier League,África do Sul,,14_15,2663
+860,Botola Pro,Marrocos,,05_06,2793
+860,Botola Pro,Marrocos,,06_07,2794
+860,Botola Pro,Marrocos,,07_08,2797
+806,Premier League,África do Sul,,08_09,2657
+806,Premier League,África do Sul,,06_07,2655
+806,Premier League,África do Sul,,11_12,2660
+806,Premier League,África do Sul,,05_06,2654
+806,Premier League,África do Sul,,07_08,2656
+806,Premier League,África do Sul,,16_17,937
+860,Botola Pro,Marrocos,,08_09,2798
+806,Premier League,África do Sul,,10_11,2659
+806,Premier League,África do Sul,,09_10,2658
+806,Premier League,África do Sul,,13_14,2662
+860,Botola Pro,Marrocos,,09_10,2800
+860,Botola Pro,Marrocos,,10_11,2799
+806,Premier League,África do Sul,,17_18,8796
+384,Serie A,Itália,UEFA,23_24,23746
+830,Premier League,Egito,,10_11,2734
+830,Premier League,Egito,,08_09,2729
+830,Premier League,Egito,,14_15,2736
+743,Liga MX,México,,22_23,19684
+830,Premier League,Egito,,15_16,2737
+743,Liga MX,México,,24_25,23586
+830,Premier League,Egito,,11_12,2731
+384,Serie A,Itália,UEFA,24_25,21818
+830,Premier League,Egito,,12_13,2730
+830,Premier League,Egito,,17_18,9513
+462,Liga Portugal,Portugal,,18_19,13049
+830,Premier League,Egito,,16_17,936
+462,Liga Portugal,Portugal,,19_20,16346
+830,Premier League,Egito,,05_06,2723
+830,Premier League,Egito,,09_10,2728
+830,Premier League,Egito,,07_08,2724
+830,Premier League,Egito,,13_14,2735
+830,Premier League,Egito,,06_07,2725
+462,Liga Portugal,Portugal,,20_21,17463
+462,Liga Portugal,Portugal,,21_22,18529
+860,Botola Pro,Marrocos,,11_12,2801
+462,Liga Portugal,Portugal,,22_23,19896
+860,Botola Pro,Marrocos,,12_13,2802
+860,Botola Pro,Marrocos,,13_14,2803
+860,Botola Pro,Marrocos,,14_15,2804
+860,Botola Pro,Marrocos,,15_16,2805
+860,Botola Pro,Marrocos,,16_17,939
+860,Botola Pro,Marrocos,,17_18,8707
+860,Botola Pro,Marrocos,,18_19,13108
+860,Botola Pro,Marrocos,,19_20,16603
+462,Liga Portugal,Portugal,,24_25,23793
+860,Botola Pro,Marrocos,,20_21,17771
+860,Botola Pro,Marrocos,,23_24,22440
+860,Botola Pro,Marrocos,,21_22,18932
+860,Botola Pro,Marrocos,,22_23,20499
+743,Liga MX,México,,23_24,21623
+938,Stars League,Qatar,,18_19,13021
+938,Stars League,Qatar,,19_20,16477
+860,Botola Pro,Marrocos,,24_25,24319
+1356,A-League Men,Austrália,,11_12,6197
+1356,A-League Men,Austrália,,12_13,6198
+1356,A-League Men,Austrália,,13_14,6199
+1356,A-League Men,Austrália,,14_15,6200
+1356,A-League Men,Austrália,,15_16,6201
+1356,A-League Men,Austrália,,16_17,6202
+1356,A-League Men,Austrália,,17_18,8031
+1356,A-League Men,Austrália,,18_19,13085
+938,Stars League,Qatar,,20_21,17475
+938,Stars League,Qatar,,21_22,18754
+938,Stars League,Qatar,,22_23,19702
+1356,A-League Men,Austrália,,19_20,16548
+938,Stars League,Qatar,,24_25,23797
+1356,A-League Men,Austrália,,20_21,17776
+462,Liga Portugal,Portugal,,23_24,21825
+8,Premier League,Reino Unido,UEFA,18_19,12962
+1356,A-League Men,Austrália,,21_22,19004
+1356,A-League Men,Austrália,,22_23,243
+938,Stars League,Qatar,,23_24,22330
+1356,A-League Men,Austrália,,24_25,24199
+82,Bundesliga,Alemanha,,24_25,23744
+82,Bundesliga,Alemanha,,16_17,219
+82,Bundesliga,Alemanha,,13_14,216
+82,Bundesliga,Alemanha,,14_15,217
+82,Bundesliga,Alemanha,,15_16,218
+8,Premier League,Reino Unido,UEFA,19_20,16036
+8,Premier League,Reino Unido,UEFA,20_21,17420
+82,Bundesliga,Alemanha,,17_18,8026
+8,Premier League,Reino Unido,UEFA,21_22,18378
+8,Premier League,Reino Unido,UEFA,22_23,19734
+8,Premier League,Reino Unido,UEFA,24_25,23614
+8,Premier League,Reino Unido,UEFA,23_24,21646
+82,Bundesliga,Alemanha,,06_07,209
+82,Bundesliga,Alemanha,,07_08,210
+82,Bundesliga,Alemanha,,05_06,208
+82,Bundesliga,Alemanha,,12_13,215
+82,Bundesliga,Alemanha,,11_12,214
+82,Bundesliga,Alemanha,,09_10,212
+82,Bundesliga,Alemanha,,10_11,213
+82,Bundesliga,Alemanha,,08_09,211

@@ -1,0 +1,19 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+605,1,20,138,male,Benfica,SLB,https://cdn.sportmonks.com/images/soccer/teams/29/605.png,1904,domestic,false,2025-05-03 19:30:00
+6377,1,20,4119,male,Rio Ave,RIO,https://cdn.sportmonks.com/images/soccer/teams/9/6377.png,1939,domestic,false,2025-05-05 18:30:00
+1085,1,20,423,male,Moreirense,MOE,https://cdn.sportmonks.com/images/soccer/teams/29/1085.png,0,domestic,false,2025-05-02 19:15:00
+652,1,20,165,male,Porto,POR,https://cdn.sportmonks.com/images/soccer/teams/12/652.png,1893,domestic,false,2025-05-02 19:15:00
+3708,1,20,2175,male,Vitória FC,VSC,https://cdn.sportmonks.com/images/soccer/teams/28/3708.png,1910,domestic,false,2016-07-14 19:30:00
+3497,1,20,2034,male,Tondela,TND,https://cdn.sportmonks.com/images/soccer/teams/9/3497.png,,domestic,false,2025-05-04 17:00:00
+5931,1,20,3873,male,Marítimo,MTI,https://cdn.sportmonks.com/images/soccer/teams/11/5931.png,1910,domestic,false,2025-05-04 14:30:00
+1122,1,20,442,male,Paços de Ferreira,PAC,https://cdn.sportmonks.com/images/soccer/teams/2/1122.png,1950,domestic,false,2025-05-04 10:00:00
+1658,1,20,184030,male,Portimonense,PRT,https://cdn.sportmonks.com/images/soccer/teams/26/1658.png,1914,domestic,false,2025-05-03 10:00:00
+884,1,20,313,male,Sporting Braga,SBR,https://cdn.sportmonks.com/images/soccer/teams/20/884.png,1921,domestic,false,2025-05-03 17:00:00
+423,1,20,14455,male,Belenenses,,https://cdn.sportmonks.com/images/soccer/teams/7/423.png,1919,domestic,false,2014-10-29 16:00:00
+8361,1,20,5404,male,Desportivo Aves,,https://cdn.sportmonks.com/images/soccer/teams/9/8361.png,1930,domestic,false,2016-07-31 16:00:00
+960,1,20,355,male,Boavista,BOA,https://cdn.sportmonks.com/images/soccer/teams/0/960.png,1903,domestic,false,2025-05-05 19:15:00
+364,1,20,8477,male,Gil Vicente,,https://cdn.sportmonks.com/images/soccer/teams/12/364.png,1924,domestic,false,2025-05-04 19:30:00
+2628,1,20,1565,male,Santa Clara,,https://cdn.sportmonks.com/images/soccer/teams/4/2628.png,1921,domestic,false,2025-05-03 17:00:00
+830,1,20,286,male,Vitória SC,VDG,https://cdn.sportmonks.com/images/soccer/teams/30/830.png,1922,domestic,false,2025-05-03 14:30:00
+3161,1,20,1852,male,Famalicão,,https://cdn.sportmonks.com/images/soccer/teams/25/3161.png,1931,domestic,false,2025-05-03 14:30:00
+58,1,20,8323,male,Sporting CP,SCP,https://cdn.sportmonks.com/images/soccer/teams/26/58.png,1906,domestic,false,2025-05-04 19:30:00

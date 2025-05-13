@@ -1,0 +1,19 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+16443,1,886,12260,male,Ghazl El Mehalla,,https://cdn.sportmonks.com/images/soccer/teams/27/16443.png,1927,domestic,false,2025-05-03 17:00:00
+623,1,886,148,male,Al Mokawloon,,https://cdn.sportmonks.com/images/soccer/teams/15/623.png,1973,domestic,false,2025-05-05 14:00:00
+4270,1,886,74267,male,ENPPI,,https://cdn.sportmonks.com/images/soccer/teams/14/4270.png,1980,domestic,false,2025-05-07 17:00:00
+16473,1,886,12280,male,El Gounah,,https://cdn.sportmonks.com/images/soccer/teams/25/16473.png,2003,domestic,false,2025-05-07 14:00:00
+15201,1,886,2323,male,Ismaily,,https://cdn.sportmonks.com/images/soccer/teams/1/15201.png,1924,domestic,false,2025-05-07 17:00:00
+6998,1,886,22001,male,El Entag El Harby,,https://cdn.sportmonks.com/images/soccer/teams/22/6998.png,0,domestic,false,2024-12-26 12:00:00
+250628,1,886,,male,National Bank of Egypt,,https://cdn.sportmonks.com/images/soccer/teams/4/250628.png,,domestic,false,2025-05-09 17:00:00
+16496,1,886,6170,male,Pyramids FC,,https://cdn.sportmonks.com/images/soccer/teams/16/16496.png,0,domestic,false,2025-05-09 17:00:00
+6740,1,886,58,male,Zamalek,,https://cdn.sportmonks.com/images/soccer/teams/20/6740.png,1911,domestic,false,2025-05-09 14:00:00
+460,1,886,58,male,Al Ahly,,https://cdn.sportmonks.com/images/soccer/teams/12/460.png,1907,domestic,false,2025-05-08 17:00:00
+1624,1,886,785,male,El Geish,,https://cdn.sportmonks.com/images/soccer/teams/24/1624.png,1997,domestic,false,2025-05-06 14:00:00
+9479,1,886,5043,male,Smouha,,https://cdn.sportmonks.com/images/soccer/teams/7/9479.png,1949,domestic,false,2025-05-06 14:00:00
+3964,1,886,2323,male,Al Masry,,https://cdn.sportmonks.com/images/soccer/teams/28/3964.png,1920,domestic,false,2025-05-08 17:00:00
+250629,1,886,4563,male,Ceramica Cleopatra,,https://cdn.sportmonks.com/images/soccer/teams/5/250629.png,,domestic,false,2025-05-09 14:00:00
+7057,1,886,4568,male,Wadi Degla,,https://cdn.sportmonks.com/images/soccer/teams/17/7057.png,2002,domestic,false,2025-05-05 16:00:00
+7784,1,886,5043,male,Al Ittihad,,https://cdn.sportmonks.com/images/soccer/teams/8/7784.png,1914,domestic,false,2025-05-06 17:00:00
+9428,1,886,148,male,Misr Lel Makasa,,https://cdn.sportmonks.com/images/soccer/teams/20/9428.png,0,domestic,false,2024-05-09 13:30:00
+15711,1,886,11600,male,Aswan,,https://cdn.sportmonks.com/images/soccer/teams/31/15711.png,,domestic,false,2025-05-05 14:00:00

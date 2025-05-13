@@ -1,0 +1,27 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+9561,1,44,6258,male,Defensa y Justicia,DEF,https://cdn.sportmonks.com/images/soccer/teams/25/9561.png,1935,domestic,false,2025-05-06 22:00:00
+3608,1,44,2114,male,Racing Club,RAC,https://cdn.sportmonks.com/images/soccer/teams/24/3608.png,1903,domestic,false,2025-05-06 22:00:00
+10840,1,44,7213,male,Independiente,IND,https://cdn.sportmonks.com/images/soccer/teams/24/10840.png,1905,domestic,false,2025-05-07 00:30:00
+9878,1,44,6480,male,Lanús,LAN,https://cdn.sportmonks.com/images/soccer/teams/22/9878.png,1915,domestic,false,2025-05-07 02:00:00
+9999,1,44,14848,male,Talleres Córdoba,TAL,https://cdn.sportmonks.com/images/soccer/teams/15/9999.png,1913,domestic,false,2025-05-08 22:00:00
+3393,1,44,1983,male,Argentinos Juniors,ARJ,https://cdn.sportmonks.com/images/soccer/teams/1/3393.png,1904,domestic,false,2025-05-02 18:30:00
+9884,1,44,6483,male,Tigre,TIG,https://cdn.sportmonks.com/images/soccer/teams/28/9884.png,1902,domestic,false,2025-05-04 21:00:00
+7228,1,44,4696,male,Unión Santa Fe,USF,https://cdn.sportmonks.com/images/soccer/teams/28/7228.png,1907,domestic,false,2025-05-07 22:00:00
+6969,1,44,4551,male,Patronato,PTO,https://cdn.sportmonks.com/images/soccer/teams/25/6969.png,1914,domestic,false,2025-05-04 20:00:00
+10675,1,44,5394,male,Atlético Tucumán,ATU,https://cdn.sportmonks.com/images/soccer/teams/19/10675.png,1902,domestic,false,2025-05-04 00:00:00
+9904,1,44,6496,male,Vélez Sarsfield,VEL,https://cdn.sportmonks.com/images/soccer/teams/16/9904.png,1910,domestic,false,2025-05-08 22:00:00
+887,1,44,315,male,Banfield,BAN,https://cdn.sportmonks.com/images/soccer/teams/23/887.png,1896,domestic,false,2025-05-02 18:30:00
+32,1,44,14849,male,Newell's Old Boys,NOB,https://cdn.sportmonks.com/images/soccer/teams/0/32.png,1903,domestic,false,2025-05-02 18:30:00
+9874,1,44,5361,male,Aldosivi,ALD,https://cdn.sportmonks.com/images/soccer/teams/18/9874.png,1913,domestic,false,2025-05-04 18:30:00
+10987,1,44,7307,male,Godoy Cruz,GOD,https://cdn.sportmonks.com/images/soccer/teams/11/10987.png,1921,domestic,false,2025-05-06 22:00:00
+10041,1,44,6596,male,San Martín San Juan,SMJ,https://cdn.sportmonks.com/images/soccer/teams/25/10041.png,1907,domestic,false,2025-05-04 18:30:00
+3930,1,44,2301,male,Colón,COO,https://cdn.sportmonks.com/images/soccer/teams/26/3930.png,1905,domestic,false,2025-05-04 19:00:00
+3365,1,44,1969,male,Rosario Central,ROS,https://cdn.sportmonks.com/images/soccer/teams/5/3365.png,1889,domestic,false,2025-05-03 21:30:00
+587,1,44,129,male,Boca Juniors,BOJ,https://cdn.sportmonks.com/images/soccer/teams/11/587.png,1905,domestic,false,2025-05-04 21:00:00
+9912,1,44,289884,male,San Martín Tucumán,,https://cdn.sportmonks.com/images/soccer/teams/24/9912.png,1909,domestic,false,2025-05-02 23:10:00
+520,1,44,85,male,San Lorenzo,SLO,https://cdn.sportmonks.com/images/soccer/teams/8/520.png,1908,domestic,false,2025-05-03 19:00:00
+9335,1,44,6088,male,Estudiantes,ESU,https://cdn.sportmonks.com/images/soccer/teams/23/9335.png,1905,domestic,false,2025-05-08 00:00:00
+470,1,44,60,male,Gimnasia La Plata,GIM,https://cdn.sportmonks.com/images/soccer/teams/22/470.png,1887,domestic,false,2025-05-04 18:30:00
+10002,1,44,6569,male,River Plate,CARP,https://cdn.sportmonks.com/images/soccer/teams/18/10002.png,1901,domestic,false,2025-05-09 00:30:00
+6829,1,44,4470,male,Belgrano,BEL,https://cdn.sportmonks.com/images/soccer/teams/13/6829.png,1905,domestic,false,2025-05-02 21:00:00
+3139,1,44,1842,male,Huracán,HUR,https://cdn.sportmonks.com/images/soccer/teams/3/3139.png,1908,domestic,false,2025-05-08 22:00:00

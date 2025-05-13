@@ -1,0 +1,17 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+3103,1,146,9388,male,Stellenbosch,STE,https://cdn.sportmonks.com/images/soccer/teams/31/3103.png,1980,domestic,false,2025-05-03 13:00:00
+16064,1,146,8325,male,Black Leopards,,https://cdn.sportmonks.com/images/soccer/teams/0/16064.png,0,domestic,false,2025-05-03 13:00:00
+6973,1,146,11970,male,AmaZulu,AMA,https://cdn.sportmonks.com/images/soccer/teams/29/6973.png,1932,domestic,false,2025-05-02 17:30:00
+2602,1,146,873,male,Maritzburg United,MAR,https://cdn.sportmonks.com/images/soccer/teams/10/2602.png,1979,domestic,false,2023-02-10 17:30:00
+6755,1,146,4433,male,Mamelodi Sundowns,MSU,https://cdn.sportmonks.com/images/soccer/teams/3/6755.png,1970,domestic,false,2025-05-07 17:30:00
+12946,1,146,8325,male,Polokwane City,,https://cdn.sportmonks.com/images/soccer/teams/18/12946.png,0,domestic,false,2025-05-02 17:30:00
+12212,1,146,8325,male,Baroka,,https://cdn.sportmonks.com/images/soccer/teams/20/12212.png,0,domestic,false,2025-05-03 13:00:00
+9960,1,146,6539,male,Orlando Pirates,ORL,https://cdn.sportmonks.com/images/soccer/teams/8/9960.png,1937,domestic,false,2025-05-06 17:30:00
+2856,1,146,1433,male,Cape Town City,CTC,https://cdn.sportmonks.com/images/soccer/teams/8/2856.png,2007,domestic,false,2025-05-03 18:00:00
+2541,1,146,1519,male,Kaizer Chiefs,KAI,https://cdn.sportmonks.com/images/soccer/teams/13/2541.png,1970,domestic,false,2025-05-03 13:00:00
+3354,1,146,1962,male,Bloemfontein Celtic,,https://cdn.sportmonks.com/images/soccer/teams/26/3354.png,1969,domestic,false,2019-05-11 13:04:41
+8495,1,146,5497,male,Highlands Park,,https://cdn.sportmonks.com/images/soccer/teams/15/8495.png,1959,domestic,false,2024-02-21 17:00:00
+1555,1,146,745,male,Golden Arrows,GOL,https://cdn.sportmonks.com/images/soccer/teams/19/1555.png,1943,domestic,false,2025-05-06 17:30:00
+767,1,146,243,male,SuperSport United,SUP,https://cdn.sportmonks.com/images/soccer/teams/31/767.png,1994,domestic,false,2025-05-03 15:45:00
+13547,1,146,9408,male,Chippa United,CHI,https://cdn.sportmonks.com/images/soccer/teams/11/13547.png,0,domestic,false,2025-05-07 17:30:00
+299,1,146,12008,male,Bidvest Wits,,https://cdn.sportmonks.com/images/soccer/teams/11/299.png,1921,domestic,false,2019-10-18 18:00:00

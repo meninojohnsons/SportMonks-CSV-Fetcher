@@ -1,0 +1,21 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+3440,1,5,2006,male,Vitória,VTO,https://cdn.sportmonks.com/images/soccer/teams/16/3440.png,1899,domestic,false,2025-05-06 22:00:00
+3371,1,5,1972,male,Cruzeiro,CRZ,https://cdn.sportmonks.com/images/soccer/teams/11/3371.png,1921,domestic,false,2025-05-08 00:30:00
+6036,1,5,3930,male,Criciúma,CEC,https://cdn.sportmonks.com/images/soccer/teams/20/6036.png,1947,domestic,false,2025-05-04 21:30:00
+2696,1,5,1604,male,Internacional,INL,https://cdn.sportmonks.com/images/soccer/teams/8/2696.png,1909,domestic,false,2025-05-09 00:30:00
+3432,1,5,338833,male,Athletico PR,APR,https://cdn.sportmonks.com/images/soccer/teams/8/3432.png,1924,domestic,false,2025-05-09 00:35:00
+692,1,5,185,male,Bahia,BAH,https://cdn.sportmonks.com/images/soccer/teams/20/692.png,1931,domestic,false,2025-05-07 22:00:00
+3496,1,5,2035,male,São Paulo,SAO,https://cdn.sportmonks.com/images/soccer/teams/8/3496.png,1930,domestic,false,2025-05-06 22:00:00
+8331,1,5,290225,male,Atlético GO,AGO,https://cdn.sportmonks.com/images/soccer/teams/11/8331.png,1937,domestic,false,2025-05-04 19:00:00
+303,1,5,10494,male,Corinthians,CTH,https://cdn.sportmonks.com/images/soccer/teams/15/303.png,1910,domestic,false,2025-05-07 00:30:00
+2864,1,5,10562,male,Botafogo,BOT,https://cdn.sportmonks.com/images/soccer/teams/16/2864.png,1904,domestic,false,2025-05-06 22:00:00
+1024,1,5,392,male,Flamengo,FLA,https://cdn.sportmonks.com/images/soccer/teams/0/1024.png,1895,domestic,false,2025-05-08 00:30:00
+696,1,5,187,male,Vasco da Gama,VAG,https://cdn.sportmonks.com/images/soccer/teams/24/696.png,1898,domestic,false,2025-05-07 22:00:00
+3621,1,5,8332,male,Fortaleza,FOR,https://cdn.sportmonks.com/images/soccer/teams/5/3621.png,1918,domestic,false,2025-05-07 00:30:00
+7808,1,5,5057,male,Bragantino,BRA,https://cdn.sportmonks.com/images/soccer/teams/0/7808.png,1928,domestic,false,2025-05-05 22:00:00
+2925,1,5,1718,male,Grêmio,GRE,https://cdn.sportmonks.com/images/soccer/teams/13/2925.png,1903,domestic,false,2025-05-08 00:30:00
+5463,1,5,10495,male,Cuiabá,CUI,https://cdn.sportmonks.com/images/soccer/teams/23/5463.png,2001,domestic,false,2025-05-06 22:30:00
+3427,1,5,343454,male,Atlético Mineiro,AMN,https://cdn.sportmonks.com/images/soccer/teams/3/3427.png,1908,domestic,false,2025-05-08 22:00:00
+1095,1,5,392,male,Fluminense,FLU,https://cdn.sportmonks.com/images/soccer/teams/7/1095.png,1902,domestic,false,2025-05-09 00:30:00
+48,1,5,10477,male,Juventude,ECJ,https://cdn.sportmonks.com/images/soccer/teams/16/48.png,1913,domestic,false,2025-05-05 23:00:00
+3422,1,5,1998,male,Palmeiras,PAL,https://cdn.sportmonks.com/images/soccer/teams/30/3422.png,1914,domestic,false,2025-05-08 00:30:00

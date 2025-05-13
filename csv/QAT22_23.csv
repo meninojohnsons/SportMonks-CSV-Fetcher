@@ -1,0 +1,13 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+13260,1,74505,4726,male,Al Rayyan,RAY,https://cdn.sportmonks.com/images/soccer/teams/12/13260.png,1967,domestic,false,2025-05-05 17:15:00
+8089,1,74505,4274,male,Al Sailiya,SAL,https://cdn.sportmonks.com/images/soccer/teams/25/8089.png,1995,domestic,false,2025-05-05 14:15:00
+17657,1,74505,4722,male,Al Markhiya,MRK,https://cdn.sportmonks.com/images/soccer/teams/25/17657.png,,domestic,false,2025-04-28 16:00:00
+7283,1,74505,4726,male,Al Sadd,SAD,https://cdn.sportmonks.com/images/soccer/teams/19/7283.png,1969,domestic,false,2025-05-06 17:15:00
+2419,1,74505,1457,male,Al Shamal,SHM,https://cdn.sportmonks.com/images/soccer/teams/19/2419.png,1980,domestic,false,2025-05-07 17:15:00
+12360,1,74505,8428,male,Umm Salal,UMS,https://cdn.sportmonks.com/images/soccer/teams/8/12360.png,1979,domestic,false,2025-05-07 14:15:00
+6027,1,74505,3926,male,Al Ahli,AHL,https://cdn.sportmonks.com/images/soccer/teams/11/6027.png,1950,domestic,false,2025-05-04 17:15:00
+2740,1,74505,4722,male,Al Wakrah,WKH,https://cdn.sportmonks.com/images/soccer/teams/20/2740.png,1959,domestic,false,2025-05-07 14:15:00
+105,1,74505,4722,male,Al Duhail,DUH,https://cdn.sportmonks.com/images/soccer/teams/9/105.png,1938,domestic,false,2025-05-05 14:15:00
+6941,1,74505,4535,male,Al Arabi,ARB,https://cdn.sportmonks.com/images/soccer/teams/29/6941.png,1952,domestic,false,2025-05-07 17:15:00
+422,1,74505,4535,male,Al Gharafa,GHA,https://cdn.sportmonks.com/images/soccer/teams/6/422.png,1979,domestic,false,2025-05-06 14:15:00
+84,1,74505,8428,male,Qatar SC,QAT,https://cdn.sportmonks.com/images/soccer/teams/20/84.png,1959,domestic,false,2025-05-04 17:15:00

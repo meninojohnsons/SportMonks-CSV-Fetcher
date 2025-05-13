@@ -1,0 +1,21 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+3477,1,32,2028,male,Villarreal,VIL,https://cdn.sportmonks.com/images/soccer/teams/21/3477.png,1923,domestic,false,2025-05-03 14:15:00
+3468,1,32,2020,male,Real Madrid,RMA,https://cdn.sportmonks.com/images/soccer/teams/12/3468.png,1902,domestic,false,2025-05-04 12:00:00
+485,1,32,68,male,Real Betis,BET,https://cdn.sportmonks.com/images/soccer/teams/5/485.png,1907,domestic,false,2025-05-08 19:00:00
+36,1,32,9239,male,Celta de Vigo,CEL,https://cdn.sportmonks.com/images/soccer/teams/4/36.png,1923,domestic,false,2025-05-04 12:00:00
+1099,1,32,430,male,Elche,ELC,https://cdn.sportmonks.com/images/soccer/teams/11/1099.png,1923,domestic,false,2025-05-03 19:00:00
+361,1,32,9323,male,Real Valladolid,REV,https://cdn.sportmonks.com/images/soccer/teams/9/361.png,1928,domestic,false,2025-05-03 19:00:00
+6827,1,32,4473,male,Cádiz,CAD,https://cdn.sportmonks.com/images/soccer/teams/11/6827.png,1910,domestic,false,2025-05-02 18:30:00
+645,1,32,343495,male,Mallorca,MLL,https://cdn.sportmonks.com/images/soccer/teams/5/645.png,1916,domestic,false,2025-05-05 19:00:00
+231,1,32,9345,male,Girona,GIR,https://cdn.sportmonks.com/images/soccer/teams/7/231.png,1930,domestic,false,2025-05-05 19:00:00
+676,1,32,177,male,Sevilla,SEV,https://cdn.sportmonks.com/images/soccer/teams/4/676.png,1890,domestic,false,2025-05-04 14:15:00
+83,1,32,300228,male,FC Barcelona,BAR,https://cdn.sportmonks.com/images/soccer/teams/19/83.png,1899,domestic,false,2025-05-06 19:00:00
+594,1,32,133,male,Real Sociedad,RSO,https://cdn.sportmonks.com/images/soccer/teams/18/594.png,1909,domestic,false,2025-05-04 19:00:00
+214,1,32,9240,male,Valencia,VAL,https://cdn.sportmonks.com/images/soccer/teams/22/214.png,1919,domestic,false,2025-05-03 16:30:00
+7980,1,32,140808,male,Atlético Madrid,ATM,https://cdn.sportmonks.com/images/soccer/teams/12/7980.png,1903,domestic,false,2025-05-03 12:00:00
+618,1,32,9180,male,Almería,ALM,https://cdn.sportmonks.com/images/soccer/teams/10/618.png,1989,domestic,false,2025-05-04 16:30:00
+106,1,32,9351,male,Getafe,GET,https://cdn.sportmonks.com/images/soccer/teams/10/106.png,1983,domestic,false,2025-05-02 19:00:00
+13258,1,32,9162,male,Athletic Club,ATH,https://cdn.sportmonks.com/images/soccer/teams/10/13258.png,1898,domestic,false,2025-05-08 19:00:00
+528,1,32,89,male,Espanyol,ESY,https://cdn.sportmonks.com/images/soccer/teams/16/528.png,1900,domestic,false,2025-05-04 16:30:00
+459,1,32,56,male,Osasuna,OSA,https://cdn.sportmonks.com/images/soccer/teams/11/459.png,1920,domestic,false,2025-05-03 14:15:00
+377,1,32,304396,male,Rayo Vallecano,RAY,https://cdn.sportmonks.com/images/soccer/teams/25/377.png,1924,domestic,false,2025-05-02 19:00:00

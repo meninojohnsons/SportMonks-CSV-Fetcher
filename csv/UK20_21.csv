@@ -1,0 +1,21 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+78,1,462,480,male,Brighton & Hove Albion,BHA,https://cdn.sportmonks.com/images/soccer/teams/14/78.png,1901,domestic,false,2025-05-04 13:00:00
+11,1,462,485,male,Fulham,FUL,https://cdn.sportmonks.com/images/soccer/teams/11/11.png,1879,domestic,false,2025-05-03 11:30:00
+8,1,462,230,male,Liverpool,LIV,https://cdn.sportmonks.com/images/soccer/teams/8/8.png,1892,domestic,false,2025-05-04 15:30:00
+19,1,462,204,male,Arsenal,ARS,https://cdn.sportmonks.com/images/soccer/teams/19/19.png,1886,domestic,false,2025-05-07 19:00:00
+42,1,462,117,male,Leicester City,LEI,https://cdn.sportmonks.com/images/soccer/teams/10/42.png,1884,domestic,false,2025-05-03 14:00:00
+29,1,462,492,male,Wolverhampton Wanderers,WOL,https://cdn.sportmonks.com/images/soccer/teams/29/29.png,1877,domestic,false,2025-05-02 19:00:00
+71,1,462,488,male,Leeds United,LEE,https://cdn.sportmonks.com/images/soccer/teams/7/71.png,1919,domestic,false,2025-05-03 11:30:00
+51,1,462,201,male,Crystal Palace,CRY,https://cdn.sportmonks.com/images/soccer/teams/19/51.png,1905,domestic,false,2025-05-05 19:00:00
+21,1,462,2,male,Sheffield United,SHU,https://cdn.sportmonks.com/images/soccer/teams/21/21.png,1889,domestic,false,2025-05-08 19:00:00
+14,1,462,206,male,Manchester United,MUN,https://cdn.sportmonks.com/images/soccer/teams/14/14.png,1878,domestic,false,2025-05-08 19:00:00
+20,1,462,449,male,Newcastle United,NEW,https://cdn.sportmonks.com/images/soccer/teams/20/20.png,1892,domestic,false,2025-05-04 13:00:00
+13,1,462,12,male,Everton,EVE,https://cdn.sportmonks.com/images/soccer/teams/13/13.png,1878,domestic,false,2025-05-03 14:00:00
+10,1,462,119,male,West Bromwich Albion,WBA,https://cdn.sportmonks.com/images/soccer/teams/10/10.png,1878,domestic,false,2025-05-03 11:30:00
+9,1,462,151,male,Manchester City,MCI,https://cdn.sportmonks.com/images/soccer/teams/9/9.png,1880,domestic,false,2025-05-02 19:00:00
+1,1,462,214,male,West Ham United,WHU,https://cdn.sportmonks.com/images/soccer/teams/1/1.png,1895,domestic,false,2025-05-04 13:00:00
+65,1,462,167,male,Southampton,SOU,https://cdn.sportmonks.com/images/soccer/teams/1/65.png,1885,domestic,false,2025-05-03 14:00:00
+18,1,462,321614,male,Chelsea,CHE,https://cdn.sportmonks.com/images/soccer/teams/18/18.png,1905,domestic,false,2025-05-08 19:00:00
+15,1,462,5,male,Aston Villa,AVL,https://cdn.sportmonks.com/images/soccer/teams/15/15.png,1874,domestic,false,2025-05-03 11:30:00
+6,1,462,281313,male,Tottenham Hotspur,TOT,https://cdn.sportmonks.com/images/soccer/teams/6/6.png,1882,domestic,false,2025-05-08 19:00:00
+27,1,462,200,male,Burnley,BUR,https://cdn.sportmonks.com/images/soccer/teams/27/27.png,1882,domestic,false,2025-05-03 11:30:00

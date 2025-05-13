@@ -1,0 +1,17 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+3103,1,146,9388,male,Stellenbosch,STE,https://cdn.sportmonks.com/images/soccer/teams/31/3103.png,1980,domestic,false,2025-05-03 13:00:00
+6973,1,146,11970,male,AmaZulu,AMA,https://cdn.sportmonks.com/images/soccer/teams/29/6973.png,1932,domestic,false,2025-05-02 17:30:00
+2602,1,146,873,male,Maritzburg United,MAR,https://cdn.sportmonks.com/images/soccer/teams/10/2602.png,1979,domestic,false,2023-02-10 17:30:00
+6755,1,146,4433,male,Mamelodi Sundowns,MSU,https://cdn.sportmonks.com/images/soccer/teams/3/6755.png,1970,domestic,false,2025-05-07 17:30:00
+133378,1,146,11924,male,Richards Bay,RIC,https://cdn.sportmonks.com/images/soccer/teams/2/133378.png,0,domestic,false,2025-05-04 13:00:00
+9960,1,146,6539,male,Orlando Pirates,ORL,https://cdn.sportmonks.com/images/soccer/teams/8/9960.png,1937,domestic,false,2025-05-06 17:30:00
+2856,1,146,1433,male,Cape Town City,CTC,https://cdn.sportmonks.com/images/soccer/teams/8/2856.png,2007,domestic,false,2025-05-03 18:00:00
+2541,1,146,1519,male,Kaizer Chiefs,KAI,https://cdn.sportmonks.com/images/soccer/teams/13/2541.png,1970,domestic,false,2025-05-03 13:00:00
+6115,1,146,3985,male,Moroka Swallows,SWA,https://cdn.sportmonks.com/images/soccer/teams/3/6115.png,1947,domestic,false,2024-05-25 13:00:00
+143574,1,146,11919,male,Marumo Gallants FC,GAL,https://cdn.sportmonks.com/images/soccer/teams/22/143574.png,,domestic,false,2025-04-26 13:00:00
+228707,1,146,286477,male,TS Galaxy,TSG,https://cdn.sportmonks.com/images/soccer/teams/3/228707.png,2015,domestic,false,2025-05-04 13:00:00
+251707,1,146,5497,male,Sekhukhune United,SEU,https://cdn.sportmonks.com/images/soccer/teams/27/251707.png,,domestic,false,2025-05-03 15:30:00
+16126,1,146,11964,male,Royal AM,RAM,https://cdn.sportmonks.com/images/soccer/teams/30/16126.png,0,domestic,false,2024-12-29 13:30:00
+1555,1,146,745,male,Golden Arrows,GOL,https://cdn.sportmonks.com/images/soccer/teams/19/1555.png,1943,domestic,false,2025-05-06 17:30:00
+767,1,146,243,male,SuperSport United,SUP,https://cdn.sportmonks.com/images/soccer/teams/31/767.png,1994,domestic,false,2025-05-03 15:45:00
+13547,1,146,9408,male,Chippa United,CHI,https://cdn.sportmonks.com/images/soccer/teams/11/13547.png,0,domestic,false,2025-05-07 17:30:00

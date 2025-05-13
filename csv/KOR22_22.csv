@@ -1,0 +1,13 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+672,1,712,175,male,Seoul,,https://cdn.sportmonks.com/images/soccer/teams/0/672.png,1983,domestic,false,2025-05-06 10:00:00
+6922,1,712,4526,male,Incheon United,,https://cdn.sportmonks.com/images/soccer/teams/10/6922.png,2003,domestic,false,2025-05-04 07:30:00
+5839,1,712,27065,male,Ulsan HD,,https://cdn.sportmonks.com/images/soccer/teams/15/5839.png,1983,domestic,false,2025-05-05 07:30:00
+3901,1,712,2288,male,Gimcheon Sangmu,,https://cdn.sportmonks.com/images/soccer/teams/29/3901.png,1985,domestic,false,2025-05-05 07:30:00
+6954,1,712,320604,male,Daegu,,https://cdn.sportmonks.com/images/soccer/teams/10/6954.png,2002,domestic,false,2025-05-06 10:00:00
+7273,1,712,14112,male,Gangwon,,https://cdn.sportmonks.com/images/soccer/teams/9/7273.png,2008,domestic,false,2025-05-06 07:30:00
+2366,1,712,324,male,Suwon Bluewings,,https://cdn.sportmonks.com/images/soccer/teams/30/2366.png,1995,domestic,false,2025-05-04 07:30:00
+8034,1,712,,male,Jeju United,,https://cdn.sportmonks.com/images/soccer/teams/2/8034.png,1982,domestic,false,2025-05-06 07:30:00
+3605,1,712,2112,male,Seongnam,,https://cdn.sportmonks.com/images/soccer/teams/21/3605.png,1989,domestic,false,2025-05-04 05:00:00
+904,1,712,14076,male,Suwon,,https://cdn.sportmonks.com/images/soccer/teams/8/904.png,2003,domestic,false,2025-05-06 10:00:00
+1506,1,712,709,male,Pohang Steelers,,https://cdn.sportmonks.com/images/soccer/teams/2/1506.png,1973,domestic,false,2025-05-05 07:30:00
+3339,1,712,1957,male,Jeonbuk Motors,,https://cdn.sportmonks.com/images/soccer/teams/11/3339.png,1993,domestic,false,2025-05-06 05:00:00

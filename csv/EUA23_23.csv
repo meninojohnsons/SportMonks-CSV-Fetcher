@@ -1,0 +1,30 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+179,1,3483,11573,male,Colorado Rapids,CLR,https://cdn.sportmonks.com/images/soccer/teams/19/179.png,1996,domestic,false,2025-05-03 23:30:00
+383,1,3483,2320,male,New York RB,NYR,https://cdn.sportmonks.com/images/soccer/teams/31/383.png,1995,domestic,false,2025-05-07 01:30:00
+607,1,3483,139,male,Portland Timbers,POT,https://cdn.sportmonks.com/images/soccer/teams/31/607.png,2009,domestic,false,2025-05-07 02:00:00
+413,1,3483,338706,male,LA Galaxy,LAG,https://cdn.sportmonks.com/images/soccer/teams/29/413.png,1995,domestic,false,2025-05-04 23:00:00
+275,1,3483,11578,male,Philadelphia Union,PHI,https://cdn.sportmonks.com/images/soccer/teams/19/275.png,2008,domestic,false,2025-05-07 23:30:00
+3736,1,1004,2189,male,CF Montréal,CFM,https://cdn.sportmonks.com/images/soccer/teams/24/3736.png,2010,domestic,false,2025-05-03 23:30:00
+2649,1,3483,28,male,Seattle Sounders,SEA,https://cdn.sportmonks.com/images/soccer/teams/25/2649.png,2007,domestic,false,2025-05-04 02:30:00
+148048,1,3483,343372,male,Nashville SC,NSH,https://cdn.sportmonks.com/images/soccer/teams/16/148048.png,,domestic,false,2025-05-07 00:00:00
+254172,1,3483,343370,male,Austin,ATX,https://cdn.sportmonks.com/images/soccer/teams/28/254172.png,,domestic,false,2025-05-08 00:30:00
+287,1,3483,31429,male,SJ Earthquakes,SJE,https://cdn.sportmonks.com/images/soccer/teams/31/287.png,1995,domestic,false,2025-05-08 02:30:00
+323,1,3483,11577,male,Sporting KC,SKC,https://cdn.sportmonks.com/images/soccer/teams/3/323.png,1995,domestic,false,2025-05-04 23:00:00
+292,1,1004,11554,male,Vancouver Whitecaps,VAN,https://cdn.sportmonks.com/images/soccer/teams/4/292.png,1986,domestic,false,2025-05-04 01:30:00
+1062,1,3483,411,male,Real Salt Lake,RSL,https://cdn.sportmonks.com/images/soccer/teams/6/1062.png,2004,domestic,false,2025-05-04 01:30:00
+260119,1,3483,14651,male,Charlotte,CHL,https://cdn.sportmonks.com/images/soccer/teams/23/260119.png,,domestic,false,2025-05-06 23:00:00
+3627,1,3483,2123,male,New York City,NYC,https://cdn.sportmonks.com/images/soccer/teams/11/3627.png,2013,domestic,false,2025-05-07 23:00:00
+182,1,3483,197691,male,DC United,DCU,https://cdn.sportmonks.com/images/soccer/teams/22/182.png,1996,domestic,false,2025-05-06 23:00:00
+204,1,3483,31395,male,Orlando City,ORL,https://cdn.sportmonks.com/images/soccer/teams/12/204.png,2008,domestic,false,2025-05-07 23:30:00
+239235,1,3483,342310,male,Inter Miami,MIA,https://cdn.sportmonks.com/images/soccer/teams/3/239235.png,,domestic,false,2025-05-03 23:30:00
+267299,1,3483,343367,male,St. Louis City,LOU,https://cdn.sportmonks.com/images/soccer/teams/3/267299.png,,domestic,false,2025-05-08 00:00:00
+3636,1,3483,343371,male,Cincinnati,CIN,https://cdn.sportmonks.com/images/soccer/teams/20/3636.png,,domestic,false,2025-05-04 19:00:00
+583,1,3483,25823,male,Dallas,DAL,https://cdn.sportmonks.com/images/soccer/teams/7/583.png,1996,domestic,false,2025-05-08 00:00:00
+641,1,3483,160,male,New England,NER,https://cdn.sportmonks.com/images/soccer/teams/1/641.png,1995,domestic,false,2025-05-07 23:30:00
+111,1,1004,11542,male,Toronto,TOR,https://cdn.sportmonks.com/images/soccer/teams/15/111.png,2006,domestic,false,2025-05-03 20:30:00
+147671,1,3483,219232,male,Los Angeles FC,LAF,https://cdn.sportmonks.com/images/soccer/teams/23/147671.png,2014,domestic,false,2025-05-04 02:30:00
+75,1,3483,11575,male,Chicago Fire,CHI,https://cdn.sportmonks.com/images/soccer/teams/11/75.png,1997,domestic,false,2025-05-08 00:00:00
+3639,1,3483,316588,male,Minnesota United,MIN,https://cdn.sportmonks.com/images/soccer/teams/23/3639.png,2010,domestic,false,2025-05-07 23:30:00
+478,1,3483,64,male,Houston Dynamo,HOU,https://cdn.sportmonks.com/images/soccer/teams/30/478.png,2005,domestic,false,2025-05-08 02:00:00
+577,1,3483,113,male,Columbus Crew,COL,https://cdn.sportmonks.com/images/soccer/teams/1/577.png,1996,domestic,false,2025-05-03 23:30:00
+3645,1,3483,161191,male,Atlanta United,ATL,https://cdn.sportmonks.com/images/soccer/teams/29/3645.png,2014,domestic,false,2025-05-03 18:45:00

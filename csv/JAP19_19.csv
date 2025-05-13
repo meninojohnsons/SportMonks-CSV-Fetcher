@@ -1,0 +1,19 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+14738,1,479,10462,male,Sanfrecce Hiroshima,SAN,https://cdn.sportmonks.com/images/soccer/teams/18/14738.png,1938,domestic,false,2025-05-07 10:00:00
+2756,1,479,1634,male,Yokohama F. Marinos,YOK,https://cdn.sportmonks.com/images/soccer/teams/4/2756.png,1972,domestic,false,2025-04-26 19:30:00
+3935,1,479,2304,male,Kawasaki Frontale,KAW,https://cdn.sportmonks.com/images/soccer/teams/31/3935.png,1955,domestic,false,2025-05-03 16:30:00
+280,1,479,13548,male,Urawa Reds,URA,https://cdn.sportmonks.com/images/soccer/teams/24/280.png,1950,domestic,false,2025-05-06 05:00:00
+639,1,479,159,male,Sagan Tosu,SAG,https://cdn.sportmonks.com/images/soccer/teams/31/639.png,1987,domestic,false,2025-04-14 04:30:00
+8738,1,479,13772,male,Nagoya Grampus,,https://cdn.sportmonks.com/images/soccer/teams/2/8738.png,1939,domestic,false,2025-05-06 06:00:00
+14744,1,479,10468,male,Oita Trinita,,https://cdn.sportmonks.com/images/soccer/teams/24/14744.png,1994,domestic,false,2025-05-06 05:00:00
+2453,1,479,1475,male,Shonan Bellmare,,https://cdn.sportmonks.com/images/soccer/teams/21/2453.png,1968,domestic,false,2025-05-07 10:00:00
+7788,1,479,5046,male,Júbilo Iwata,JUB,https://cdn.sportmonks.com/images/soccer/teams/12/7788.png,1970,domestic,false,2025-05-06 05:00:00
+3663,1,479,13539,male,Shimizu S-Pulse,SHI,https://cdn.sportmonks.com/images/soccer/teams/15/3663.png,1991,domestic,false,2025-05-06 07:00:00
+3634,1,479,327255,male,Cerezo Osaka,CER,https://cdn.sportmonks.com/images/soccer/teams/18/3634.png,1957,domestic,false,2025-05-06 05:00:00
+14754,1,479,14023,male,Gamba Osaka,GAM,https://cdn.sportmonks.com/images/soccer/teams/2/14754.png,1980,domestic,false,2025-05-06 05:00:00
+2685,1,479,14065,male,Consadole Sapporo,CON,https://cdn.sportmonks.com/images/soccer/teams/29/2685.png,1935,domestic,false,2025-05-06 05:00:00
+12260,1,479,8364,male,Vegalta Sendai,VEG,https://cdn.sportmonks.com/images/soccer/teams/4/12260.png,1988,domestic,false,2025-04-13 03:00:00
+3867,1,479,2266,male,Vissel Kobe,VIS,https://cdn.sportmonks.com/images/soccer/teams/27/3867.png,1966,domestic,false,2025-05-06 05:00:00
+3690,1,479,2159,male,Kashima Antlers,KAS,https://cdn.sportmonks.com/images/soccer/teams/10/3690.png,1991,domestic,false,2025-05-06 05:00:00
+11122,1,479,7421,male,Matsumoto Yamaga,,https://cdn.sportmonks.com/images/soccer/teams/18/11122.png,1965,domestic,false,2025-05-07 10:00:00
+2988,1,479,1602,male,FC Tokyo,TOK,https://cdn.sportmonks.com/images/soccer/teams/12/2988.png,1935,domestic,false,2025-05-03 05:00:00

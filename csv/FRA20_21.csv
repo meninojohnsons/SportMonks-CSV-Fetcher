@@ -1,0 +1,21 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+6842,1,17,4478,male,Dijon,DIJ,https://cdn.sportmonks.com/images/soccer/teams/26/6842.png,1936,domestic,false,2025-05-09 17:30:00
+44,1,17,6159,male,Olympique Marseille,OM,https://cdn.sportmonks.com/images/soccer/teams/12/44.png,1899,domestic,false,2025-05-04 18:45:00
+690,1,17,184,male,LOSC Lille,LOSC,https://cdn.sportmonks.com/images/soccer/teams/18/690.png,1944,domestic,false,2025-05-04 18:45:00
+598,1,17,135,male,Rennes,REN,https://cdn.sportmonks.com/images/soccer/teams/22/598.png,1901,domestic,false,2025-05-03 17:00:00
+1028,1,17,394,male,Reims,SdR,https://cdn.sportmonks.com/images/soccer/teams/4/1028.png,1909,domestic,false,2025-05-02 18:45:00
+6789,1,75285,4451,male,Monaco,ASM,https://cdn.sportmonks.com/images/soccer/teams/5/6789.png,1919,domestic,false,2025-05-03 19:05:00
+776,1,17,251,male,Angers SCO,ANG,https://cdn.sportmonks.com/images/soccer/teams/8/776.png,1919,domestic,false,2025-05-04 13:00:00
+3562,1,17,2081,male,Bordeaux,BOR,https://cdn.sportmonks.com/images/soccer/teams/10/3562.png,1881,domestic,false,2025-05-03 16:00:00
+686,1,17,182,male,Strasbourg,STR,https://cdn.sportmonks.com/images/soccer/teams/14/686.png,1906,domestic,false,2025-05-03 15:00:00
+581,1,17,126,male,Montpellier,MPL,https://cdn.sportmonks.com/images/soccer/teams/5/581.png,1974,domestic,false,2025-05-04 15:15:00
+591,1,17,131,male,Paris Saint Germain,PSG,https://cdn.sportmonks.com/images/soccer/teams/15/591.png,1970,domestic,false,2025-05-07 19:00:00
+108,1,17,6164,male,Saint-Étienne,STE,https://cdn.sportmonks.com/images/soccer/teams/12/108.png,1920,domestic,false,2025-05-03 19:05:00
+271,1,17,6240,male,Lens,LEN,https://cdn.sportmonks.com/images/soccer/teams/15/271.png,1906,domestic,false,2025-05-04 15:15:00
+59,1,17,6162,male,Nantes,NAN,https://cdn.sportmonks.com/images/soccer/teams/27/59.png,1943,domestic,false,2025-05-04 13:00:00
+3513,1,17,2042,male,Metz,MTZ,https://cdn.sportmonks.com/images/soccer/teams/25/3513.png,1932,domestic,false,2025-05-02 18:00:00
+6967,1,17,4549,male,Nîmes,,https://cdn.sportmonks.com/images/soccer/teams/23/6967.png,1937,domestic,false,2025-05-09 17:30:00
+266,1,17,323206,male,Brest,B29,https://cdn.sportmonks.com/images/soccer/teams/10/266.png,1950,domestic,false,2025-05-04 15:15:00
+9257,1,17,6032,male,Lorient,LOR,https://cdn.sportmonks.com/images/soccer/teams/9/9257.png,1926,domestic,false,2025-05-02 18:00:00
+450,1,17,51,male,Nice,NCE,https://cdn.sportmonks.com/images/soccer/teams/2/450.png,1904,domestic,false,2025-05-02 18:45:00
+79,1,17,6161,male,Olympique Lyonnais,LYO,https://cdn.sportmonks.com/images/soccer/teams/15/79.png,1950,domestic,false,2025-05-04 15:15:00

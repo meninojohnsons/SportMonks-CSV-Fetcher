@@ -1,0 +1,19 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+2626,1,458,1599,male,Cruz Azul,CAZ,https://cdn.sportmonks.com/images/soccer/teams/2/2626.png,1927,domestic,false,2025-05-09 03:10:00
+2844,1,458,1677,male,Santos Laguna,SLA,https://cdn.sportmonks.com/images/soccer/teams/28/2844.png,1983,domestic,false,2025-04-20 23:00:00
+247689,1,458,,male,Mazatlán,MZA,https://cdn.sportmonks.com/images/soccer/teams/9/247689.png,,domestic,false,2025-04-19 23:00:00
+2662,1,458,1583,male,Monterrey,MNT,https://cdn.sportmonks.com/images/soccer/teams/6/2662.png,1945,domestic,false,2025-05-08 01:00:00
+10036,1,458,6594,male,Pachuca,PCH,https://cdn.sportmonks.com/images/soccer/teams/20/10036.png,1901,domestic,false,2025-05-08 03:10:00
+6335,1,458,4095,male,Juárez,JUA,https://cdn.sportmonks.com/images/soccer/teams/31/6335.png,2015,domestic,false,2025-04-28 00:00:00
+967,1,458,359,male,Toluca,TOL,https://cdn.sportmonks.com/images/soccer/teams/7/967.png,1917,domestic,false,2025-05-08 01:00:00
+11023,1,458,7337,male,Tijuana,TIJ,https://cdn.sportmonks.com/images/soccer/teams/15/11023.png,2006,domestic,false,2025-04-20 23:00:00
+2687,1,458,1599,male,América,AME,https://cdn.sportmonks.com/images/soccer/teams/31/2687.png,1916,domestic,false,2025-05-08 03:10:00
+680,1,458,179,male,Atlas,ATS,https://cdn.sportmonks.com/images/soccer/teams/8/680.png,1916,domestic,false,2025-04-20 03:15:00
+2989,1,458,1755,male,Pumas UNAM,PUM,https://cdn.sportmonks.com/images/soccer/teams/13/2989.png,1954,domestic,false,2025-05-05 01:30:00
+609,1,458,140,male,Tigres UANL,TUA,https://cdn.sportmonks.com/images/soccer/teams/1/609.png,1960,domestic,false,2025-05-09 01:00:00
+3849,1,458,2257,male,Puebla,PUE,https://cdn.sportmonks.com/images/soccer/teams/9/3849.png,1944,domestic,false,2025-04-19 01:00:00
+15522,1,458,6105,male,Atlético San Luis,ASL,https://cdn.sportmonks.com/images/soccer/teams/2/15522.png,2013,domestic,false,2025-04-21 01:00:00
+10836,1,458,7209,male,León,LEO,https://cdn.sportmonks.com/images/soccer/teams/20/10836.png,1944,domestic,false,2025-05-09 03:10:00
+3951,1,458,2315,male,Necaxa,NXA,https://cdn.sportmonks.com/images/soccer/teams/15/3951.png,1923,domestic,false,2025-05-09 01:00:00
+538,1,458,94,male,Querétaro,QUE,https://cdn.sportmonks.com/images/soccer/teams/26/538.png,1950,domestic,false,2025-04-21 03:00:00
+427,1,458,181421,male,Guadalajara,GUA,https://cdn.sportmonks.com/images/soccer/teams/11/427.png,1906,domestic,false,2025-04-20 03:15:00

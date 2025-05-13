@@ -1,0 +1,19 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+1079,1,11,420,male,FC Union Berlin,FCU,https://cdn.sportmonks.com/images/soccer/teams/23/1079.png,1966,domestic,false,2025-05-03 13:30:00
+510,1,11,80,male,VfL Wolfsburg,WOB,https://cdn.sportmonks.com/images/soccer/teams/30/510.png,1945,domestic,false,2025-05-03 16:30:00
+3321,1,11,1947,male,Bayer 04 Leverkusen,B04,https://cdn.sportmonks.com/images/soccer/teams/25/3321.png,1904,domestic,false,2025-05-04 15:30:00
+3543,1,11,2063,male,SC Freiburg,SCF,https://cdn.sportmonks.com/images/soccer/teams/23/3543.png,1904,domestic,false,2025-05-04 15:30:00
+68,1,11,2166,male,Borussia Dortmund,BVB,https://cdn.sportmonks.com/images/soccer/teams/4/68.png,1909,domestic,false,2025-05-03 16:30:00
+82,1,11,2172,male,Werder Bremen,SVW,https://cdn.sportmonks.com/images/soccer/teams/18/82.png,1899,domestic,false,2025-05-03 13:30:00
+3320,1,11,1946,male,FC Köln,KOE,https://cdn.sportmonks.com/images/soccer/teams/24/3320.png,1948,domestic,false,2025-05-09 16:30:00
+277,1,11,2171,male,RB Leipzig,RBL,https://cdn.sportmonks.com/images/soccer/teams/21/277.png,2009,domestic,false,2025-05-03 13:30:00
+90,1,11,2165,male,FC Augsburg,FCA,https://cdn.sportmonks.com/images/soccer/teams/26/90.png,1907,domestic,false,2025-05-04 13:30:00
+683,1,11,180,male,Borussia Mönchengladbach,BMG,https://cdn.sportmonks.com/images/soccer/teams/11/683.png,1900,domestic,false,2025-05-03 13:30:00
+3319,1,11,1945,male,VfB Stuttgart,VFB,https://cdn.sportmonks.com/images/soccer/teams/23/3319.png,1893,domestic,false,2025-05-03 13:30:00
+2831,1,11,1670,male,Heidenheim,HDH,https://cdn.sportmonks.com/images/soccer/teams/15/2831.png,1946,domestic,false,2025-05-02 18:30:00
+999,1,11,378,male,VfL Bochum 1848,BOC,https://cdn.sportmonks.com/images/soccer/teams/7/999.png,1848,domestic,false,2025-05-02 18:30:00
+2726,1,11,1618,male,TSG Hoffenheim,TSG,https://cdn.sportmonks.com/images/soccer/teams/6/2726.png,1899,domestic,false,2025-05-03 13:30:00
+482,1,11,2167,male,Darmstadt 98,SVD,https://cdn.sportmonks.com/images/soccer/teams/2/482.png,1898,domestic,false,2025-05-03 11:00:00
+366,1,11,2169,male,Eintracht Frankfurt,SGE,https://cdn.sportmonks.com/images/soccer/teams/14/366.png,1899,domestic,false,2025-05-04 17:30:00
+794,1,11,2103,male,FSV Mainz 05,M05,https://cdn.sportmonks.com/images/soccer/teams/26/794.png,1905,domestic,false,2025-05-04 17:30:00
+503,1,11,53,male,FC Bayern München,FCB,https://cdn.sportmonks.com/images/soccer/teams/23/503.png,1900,domestic,false,2025-05-03 13:30:00

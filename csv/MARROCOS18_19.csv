@@ -1,0 +1,17 @@
+id,sport_id,country_id,venue_id,gender,name,short_code,image_path,founded,type,placeholder,last_played_at
+9369,1,1424,6122,male,Kawkab Marrakech,,https://cdn.sportmonks.com/images/soccer/teams/25/9369.png,1947,domestic,false,2025-05-07 15:00:00
+16849,1,1424,12587,male,Olympic Safi,,https://cdn.sportmonks.com/images/soccer/teams/17/16849.png,1921,domestic,false,2025-05-08 19:00:00
+16907,1,1424,12636,male,Youssoufia Berrechid,,https://cdn.sportmonks.com/images/soccer/teams/11/16907.png,1927,domestic,false,2025-05-07 15:00:00
+16940,1,1424,12662,male,Rapide Oued Zem,,https://cdn.sportmonks.com/images/soccer/teams/12/16940.png,0,domestic,false,2025-05-07 15:00:00
+16845,1,1424,12585,male,Difaâ El Jadida,,https://cdn.sportmonks.com/images/soccer/teams/13/16845.png,1956,domestic,false,2025-05-08 19:00:00
+306,1,1424,1679,male,Raja Casablanca,,https://cdn.sportmonks.com/images/soccer/teams/18/306.png,1949,domestic,false,2025-05-08 19:00:00
+16850,1,1424,12580,male,Hassania Agadir,,https://cdn.sportmonks.com/images/soccer/teams/18/16850.png,1946,domestic,false,2025-05-08 19:00:00
+9385,1,1424,6130,male,OC Khouribga,,https://cdn.sportmonks.com/images/soccer/teams/9/9385.png,1923,domestic,false,2025-05-07 15:00:00
+6856,1,1424,4486,male,FUS Rabat,,https://cdn.sportmonks.com/images/soccer/teams/8/6856.png,1946,domestic,false,2025-05-08 19:00:00
+16844,1,1424,12581,male,Mouloudia Oujda,,https://cdn.sportmonks.com/images/soccer/teams/12/16844.png,1946,domestic,false,2025-05-07 15:00:00
+9535,1,1424,6239,male,RSB Berkane,,https://cdn.sportmonks.com/images/soccer/teams/31/9535.png,1971,domestic,false,2025-05-07 19:00:00
+2846,1,1424,1679,male,Wydad Casablanca,WCA,https://cdn.sportmonks.com/images/soccer/teams/30/2846.png,1937,domestic,false,2025-05-08 19:00:00
+9511,1,1424,6225,male,Moghreb Tétouan,,https://cdn.sportmonks.com/images/soccer/teams/7/9511.png,1922,domestic,false,2025-05-08 19:00:00
+16893,1,1424,12611,male,Chabab Rif Hoceima,,https://cdn.sportmonks.com/images/soccer/teams/29/16893.png,1953,domestic,false,2019-06-04 22:00:32
+16853,1,1424,12590,male,Ittihad Tanger,,https://cdn.sportmonks.com/images/soccer/teams/21/16853.png,1983,domestic,false,2025-05-08 19:00:00
+16851,1,1424,12586,male,FAR Rabat,,https://cdn.sportmonks.com/images/soccer/teams/19/16851.png,1958,domestic,false,2025-05-08 19:00:00
