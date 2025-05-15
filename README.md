@@ -1,50 +1,92 @@
 # SportMonks CSV Fetcher
+### Versão 0.1.1 
+Uma ferramenta em Python que facilita o acesso e processamento de dados da API SportMonks, permitindo a compilação, tratamento e análise de dados em arquivos CSV e JSON.
 
-Um utilitário em python que cria arquivos .csv com urls tradadas para api, lê as urls, executa as requisições HTTP GET e salva em um único arquivo JSON com estatística de diferentes temporadas de times de futebol. 
+## ✅ Funcionalidades
+- Criação automatizada de CSVs com URLs personalizadas da API SportMonks.
 
-## Funcionalidades
-- Lê automaticamente todas as URLs da coluna url em um arquivo CSV com cabeçalho.
+- ✅ Requisições HTTP com tratamento de falhas e coleta de dados agregados.
 
-- Executa requisições às URLs (que já incluem o parâmetro api_token).
+- ✅ Salvamento em `output.json` com formatação legível.
 
-- Trata falhas isoladas sem interromper o processamento completo.
+- ✅ Pipeline completa com múltiplas etapas:
 
-- Agrega todas as respostas JSON em uma lista e salva num arquivo output.json com formatação legível.
+- ✅ Compilação de CSV bruto.
 
-## Pré-requisitos
-- Python 3.6 ou superior
-- Biblioteca `requests`
+- ✅ Tratamento e filtragem de dados.
+
+- ✅ Inclusão de país, temporada, ID da liga e outras colunas.
+
+- ✅ Interface interativa para selecionar time, liga e temporada.
+
+- ✅ Script de configuração (`setup.py`) com criação automática de pastas e arquivo `.env`.
+
+## ⚙️ Instalação
+### Pré-requisitos
+- Python 3.7 ou superior
+- `pip`
+- Recomendado: usar um ambiente virtual
 ```bash
-pip install requests
+python -m venv .venv
+source .venv/bin/activate  # Linux/macOS
+
+.venv\Scripts\activate     # Windows
 ```
 
-## Uso
-1. Prepare um CSV (`urls.csv`) no formato:
-```
-pais,temporada,team_id,url
-UK,18_19,1,https://api.sportmonks.com/v3/football/teams/1?…&api_token=SEU_TOKEN
-UK,19_20,1,https://api.sportmonks.com/v3/football/teams/1?…&api_token=SEU_TOKEN
-```
-2. Clone o reposiório e instale depências:
+### Instalação do Pacote
 ```bash
-git clone https://github.com/SEU_USUARIO/sportmonks-csv-fetcher.git
-cd sportmonks-csv-fetcher
 pip install -r requirements.txt
 ```
-3. Execute o script:
-```bash
-python fetcher.py urls.csv output.json 
-```
-4. Os dados agregados estarão em `output.json`
-## Estrutura do Projeto
-```
-.
-├── fetcher.py        # Script principal
-├── requirements.txt  # dependências do projeto
-└── urls.csv          # exemplo de arquivo de URLs
-```
-## Possíveis melhorias
-- log de erros detalhado em arquivo separado.
-- Suporte a pagination automática para endpoints SportMonks
-- Exportação para CSV ou banco de dados.
 
+## 🚀 Configuração Inicial
+Antes de executar o programa, rode o script de configuração:
+```bash
+python initialize.py
+```
+O que será feito:
+- Criação das pastas necessárias:
+- `csv/input`
+- `csv/output`
+- `csv/temp`
+- Criação do arquivo `.env` com seu token da API:
+```
+API_TOKEN=seu_token_aqui
+```
+
+## Como executar
+Após configurar o projeto:
+```bash
+python main.py
+```
+Durante a execução,você será solicitado a informar:
+- nome do time
+- ID da liga(ex:271)
+- Temporada(ex:22_23)
+O programa executará a pipeline completa e salvará os dados no diretório `csv/output`.
+
+## 🗂️ Estrutura do Projeto
+
+```graphql
+.
+├── csv/
+│   ├── input/      # Arquivos CSV brutos
+│   ├── output/     # Saídas finais processadas
+│   └── temp/       # Arquivos intermediários
+├── sportmonk_facilitator/
+│   └── ...         # Pacote com os módulos da pipeline
+├── main.py         # Ponto de entrada da aplicação
+├── setup.py        # Script de instalação e configuração
+├── requirements.txt
+└── README.md
+```
+## Exemplo de Saida
+Exemplo de CSV com URLs:
+```csv
+pais,temporada,team_id,url
+UK,22_23,1,https://api.sportmonks.com/v3/football/teams/1?api_token=SEU_TOKEN
+```
+
+## 👥 Autores
+- Davi Moreira
+
+- João Gabriel

@@ -1,0 +1,5 @@
+.env
+.venv
+SportMonks_CSV_Fetcher.egg-info/
+csv/output
+csv/temp
