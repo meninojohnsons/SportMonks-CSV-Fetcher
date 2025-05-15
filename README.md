@@ -87,6 +87,14 @@ UK,22_23,1,https://api.sportmonks.com/v3/football/teams/1?api_token=SEU_TOKEN
 ```
 
 ## 👥 Autores
-- Davi Moreira
+- [Davi Moreira Fuzatto]
+- [João Gabriel de Paula Costa Dias]
 
-- João Gabriel
+## Contribuições
+Este projeto foi desenvolvido como parte de um artigo acadêmico, mas está disponível para uso da comunidade. Contribuições são bem-vindas através de pull requests.
+## Licença
+Este projeto está licenciado sob [MIT License].
+
+## Notas
+- Este projeto é independente e não é afiliado oficialmente à SportMonk.
+- Respeite os termos de uso da API SportMonk ao utilizar este código.
