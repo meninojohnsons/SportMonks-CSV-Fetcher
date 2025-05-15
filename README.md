@@ -92,7 +92,9 @@ UK,22_23,1,https://api.sportmonks.com/v3/football/teams/1?api_token=SEU_TOKEN
 - [João Gabriel de Paula Costa Dias](https://github.com/meninojohnsons)
 
 ## Contribuições
-Este projeto foi desenvolvido como parte de um artigo acadêmico, mas está disponível para uso da comunidade. Contribuições são bem-vindas através de pull requests.
+Este projeto foi desenvolvido como parte de um artigo acadêmico, mas está disponível para uso da comunidade. Contribuições são sempre bem-vindas.
+Se você tiver alguma duvida de como contribuir ou quer olhar os nossos contribuidores dê uma olhada nos respectivos arquivos [Codigo de conduta](code_of_conduct.md), [Como contribuir](contributing.md), [Contribuidores](contributors.md).
+Veja também os templates de [Issues](issue_template.md) e [Pull requests](pull_request_template.md).
 ## Licença
 Este projeto está licenciado sob [MIT License](LICENSE).
 
