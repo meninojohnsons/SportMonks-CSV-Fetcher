@@ -3,7 +3,7 @@
 Uma ferramenta em Python que facilita o acesso e processamento de dados da API SportMonks, permitindo a compilação, tratamento e análise de dados em arquivos CSV e JSON.
 
 ## ✅ Funcionalidades
-- Criação automatizada de CSVs com URLs personalizadas da API SportMonks.
+- ✅ Criação automatizada de CSVs com URLs personalizadas da API SportMonks.
 
 - ✅ Requisições HTTP com tratamento de falhas e coleta de dados agregados.
 
@@ -27,7 +27,8 @@ Uma ferramenta em Python que facilita o acesso e processamento de dados da API S
 - `pip`
 - Recomendado: usar um ambiente virtual
 ```bash
-python -m venv .venv
+python -m venv .venv       #Primeiro execute esse
+
 source .venv/bin/activate  # Linux/macOS
 
 .venv\Scripts\activate     # Windows
@@ -87,13 +88,13 @@ UK,22_23,1,https://api.sportmonks.com/v3/football/teams/1?api_token=SEU_TOKEN
 ```
 
 ## 👥 Autores
-- [Davi Moreira Fuzatto]
-- [João Gabriel de Paula Costa Dias]
+- [Davi Moreira Fuzatto](https://github.com/davimf721)
+- [João Gabriel de Paula Costa Dias](https://github.com/meninojohnsons)
 
 ## Contribuições
 Este projeto foi desenvolvido como parte de um artigo acadêmico, mas está disponível para uso da comunidade. Contribuições são bem-vindas através de pull requests.
 ## Licença
-Este projeto está licenciado sob [MIT License].
+Este projeto está licenciado sob [MIT License](LICENSE).
 
 ## Notas
 - Este projeto é independente e não é afiliado oficialmente à SportMonk.
