@@ -2,8 +2,8 @@
 
 ## Core Team
 
-* **Davi Moreira Fuzatto** - *Desenvolvedor Principal* - [GitHub](https://github.com/davimoreiraf)
-* **João Gabriel de Paula Costa Dias** - *Desenvolvedor Principal* - [GitHub](https://github.com/joaogabriel)
+* **Davi Moreira Fuzatto** - *Desenvolvedor Principal* - [GitHub](https://github.com/davimf721)
+* **João Gabriel de Paula Costa Dias** - *Desenvolvedor Principal* - [GitHub](https://github.com/meninojohnsons)
 
 ## Contribuidores Ativos
 
